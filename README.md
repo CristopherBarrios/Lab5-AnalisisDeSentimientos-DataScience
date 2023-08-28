@@ -3,7 +3,7 @@
 Creado por:
 
 - Cristopher Jose Rodolfo Barrios Solis
-
+- Mariana David Sosa
 
 
 [Instrucciones](./instrucciones/Laboratorio5.pdf)
